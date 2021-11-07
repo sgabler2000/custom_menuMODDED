@@ -61,8 +61,10 @@ window.snake.more_menu = function(e) {
   img.class = 'DqMRee SsAred';
   document.querySelector('#speed').appendChild(img);
 
- 
-
+ // ..
+  
+  
+  
   // lightning
   img = new Image;
   img.src = 'https://i.postimg.cc/9Q9KJsnk/bolt.png';
@@ -184,6 +186,12 @@ window.snake.more_menu = function(e) {
   // apple nuke
   img = new Image;
   img.src = 'https://i.postimg.cc/fbvMtyDx/applenuke.png';
+  img.width = 47;
+  img.height = 47;
+  document.querySelector('#count').appendChild(img);
+  // max
+  img = new Image;
+  img.src = 'https://cdn.wallpapersafari.com/23/99/PLK5ry.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
@@ -333,8 +341,11 @@ window.snake.more_menu = function(e) {
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8) {
                   for (i=0;i<10000;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
-                  }
-              } else
+                  } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9) {
+                for (i=0;i<1000;i++) {
+                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
+                } else
+                
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 100000, 1));
             } else {
               if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} < 7)
@@ -352,6 +363,8 @@ window.snake.more_menu = function(e) {
                       ? 0
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8
                       ? 0
+                    : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9
+                      ? 0
                     : 0
                   ); i++
                 ) {
@@ -368,6 +381,8 @@ window.snake.more_menu = function(e) {
                       ? 0
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8
                       ? 0
+                    : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9
+                      ? 0
                     : 0
                   ) / 1.25), -4));
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i- ~~((
@@ -382,6 +397,8 @@ window.snake.more_menu = function(e) {
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 7
                       ? 0
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8
+                      ? 0
+                    : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9
                       ? 0
                     : 0
                   ) / 1.25), 4));
@@ -498,6 +515,15 @@ window.snake.more_menu = function(e) {
               __c = new Image;
               __c.src = 'https://i.postimg.cc/fbvMtyDx/applenuke.png';
               __c.width = __c.height = 47;
+              __c.style = 'position:fixed;top: 10px;';
+              __b.appendChild(__c);
+            }
+            if(${words} === 9) {
+              __b = document.body.getElementByClassName('UJhXPd wSwbef EWyRF')[0];
+              [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
+              __c = new Image;
+              __.src = 'https://cdn.wallpapersafari.com/23/99/PLK5ry.png';
+              ___c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
             }
