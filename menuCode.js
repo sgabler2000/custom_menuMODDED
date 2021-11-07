@@ -334,18 +334,18 @@ window.snake.more_menu = function(e) {
                 for (i=-7;i<3;i++) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 4));
                 }
-              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 7) {
+              } else if (${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 7) {
                 for (i=0;i<200;i++) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                 }
-              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8) {
+              } else if (${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8) {
                   for (i=0;i<10000;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
-              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9) {
+              } else if (${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9) {
                 for (i=0;i<1000;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                 }
-              } else {
+              } else
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 100000, 1));
             } else {
               if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} < 7)
