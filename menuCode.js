@@ -341,11 +341,11 @@ window.snake.more_menu = function(e) {
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8) {
                   for (i=0;i<10000;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
-                  } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9) {
+              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9) {
                 for (i=0;i<1000;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
+                    ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                 }
-              } else
+              } else {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 100000, 1));
             } else {
               if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} < 7)
