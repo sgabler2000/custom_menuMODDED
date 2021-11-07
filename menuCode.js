@@ -342,9 +342,10 @@ window.snake.more_menu = function(e) {
                   for (i=0;i<10000;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                   } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 9) {
-                for (i=0;i<5000;i++) {
+                for (i=0;i<1000;i++) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
-                } else
+                }
+             } else
                 
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 100000, 1));
             } else {
